@@ -12,6 +12,14 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [kEasySocket](https://github.com/luca992/kEasySocket) - A Kotlin multiplatform websocket and Phoenix Channels client.  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-jvm]
+
 #### GraphQL
 
 * [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator.
